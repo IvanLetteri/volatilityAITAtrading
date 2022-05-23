@@ -9,7 +9,7 @@ import matplotlib
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_pdf import PdfPages
 
-from volatility import models
+from volatilityAITAtrading.volatility import models
 
 ESTIMATORS = [
     'GarmanKlass',
