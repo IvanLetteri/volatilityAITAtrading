@@ -1,11 +1,11 @@
-from volatility.models import GarmanKlass
-from volatility.models import HodgesTompkins
-from volatility.models import Kurtosis
-from volatility.models import Parkinson
-from volatility.models import Raw
-from volatility.models import RogersSatchell
-from volatility.models import Skew
-from volatility.models import YangZhang
+from volatilityAITAtrading.volatility.models import GarmanKlass
+from volatilityAITAtrading.volatility.models import HodgesTompkins
+from volatilityAITAtrading.volatility.models import Kurtosis
+from volatilityAITAtrading.volatility.models import Parkinson
+from volatilityAITAtrading.volatility.models import Raw
+from volatilityAITAtrading.volatility.models import RogersSatchell
+from volatilityAITAtrading.volatility.models import Skew
+from volatilityAITAtrading.volatility.models import YangZhang
 
 __all__ = [
     'GarmanKlass',
